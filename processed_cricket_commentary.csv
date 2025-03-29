@@ -1,301 +1,122 @@
-Ball,Ball Number,Bowler,Batsman,Runs,Description
-1,0.1,Jamieson,Rohit Sharma,0,"Away swing, low bounce, beats the outside edge. Landed around fourth on a length and finished farther, Rohit crouches and reaches out with an open-faced bat. Close call but gets away with it"
-2,0.2,Jamieson,Rohit Sharma,6,"Pulled behind square. Old-school Rohit, standing upright, waiting for the shortish ball to reach hip-height and helping it for a flat six."
-3,0.3,Jamieson,Rohit Sharma,2,"Touch too straight, clipped off the pads. Through square leg"
-4,0.4,Jamieson,Rohit Sharma,0,"Length on fourth, extra bounce. Good leave"
-5,0.5,Jamieson,Rohit Sharma,0,"A bit of away movement, that was late swing. Landed around fifth and kept going away. Left alone"
-6,0.5,Jamieson,Rohit Sharma,N/A,"Wide and full, swing away but it's outside the tramline. Let go"
-7,0.6,Jamieson,Rohit Sharma,0,"Overpitched on fourth, 135ks, swing away. Driven softly, off the middle, to cover"
-8,1.1,O'Rourke,Gill,0,"Three-quarter length on fifth, Gill happy to take a decent front stride and punch it firmly to cover"
-9,1.2,O'Rourke,Rohit Sharma,0,"Fullish on fifth, 135ks, defended towards cover"
-10,1.2,O'Rourke,Gill,N/A,"Tickles a leg glance this time, it's edgy. Half-volleys the keeper, wide enough to his left to ensure Latham can only parry it a few feet to his side. Was a full ball around leg"
-11,1.2,O'Rourke,Gill,N/A,"Zips off the pitch but that's gone down leg. Fullish length ball delivered from slightly wide of the crease, landed around leg, swung after passing the batter as he tried to glance it"
-12,1.3,O'Rourke,Rohit Sharma,4,"Flicked aerially but in the gap to the left of midwicket. 137ks, looked like the inswinger, picked off a fullish length off middle stump. Rohit playing it from the front of the body after standing still for most of the ball's path"
-13,1.4,O'Rourke,Rohit Sharma,2,"Full on off, flicked along the ground this time. Through the gap at midwicket again, stopped in the outfield"
-14,1.5,O'Rourke,Rohit Sharma,0,"Length on middle and off, 137ks, flicked to short midwicket. O'Rourke bowling to the field there. This one's come onto bat nicely"
-15,1.6,O'Rourke,Rohit Sharma,4,"Spanked through cover, swing of the bat finishes behind shoulder. Was a good ball actually, on a length in the channel, Rohit holding onto a solid base and nailing it through the line"
-16,2.1,Jamieson,Gill,1,"Almost-leave steer to deep third. Gill's bat was behind him, pointing towards the slip almost. The three-quarter-length ball went off the face of the bat, in the gap. Looked like he was in control though"
-17,2.2,Jamieson,Rohit Sharma,0,Wide-ish length ball let go
-18,2.3,Jamieson,Rohit Sharma,0,"Away movement and low bounce beats the pull. Looked like a length ball, maybe slightly back, and Rohit shaped for the pull early. He committed to fetching from outside off but the seam movement took it well away"
-19,2.4,Jamieson,Rohit Sharma,0,"Rohit takes a chance, it's an ugly miss but the ball goes over middle. Jamieson, and Phillips, have hands on heads. Pre-meditated shot, he danced down and made room to slog it over long-on. The 130ks length ball rose off the pitch and was wider than the bat swing. Rohit was nowhere near but gets away with it."
-20,2.5,Jamieson,Rohit Sharma,2,"Fullish on leg, clipped to the left of deep fine leg. 138ks"
-21,2.6,Jamieson,Rohit Sharma,0,"Length at the stumps, worked back to the bowler"
-22,3.1,O'Rourke,Gill,0,"Length on off, clipped to short midwicket off the back foot"
-23,3.2,O'Rourke,Gill,2,Soft hands guide the ball behind point. Off a thickish outside edge but Gill ensured he played it close to the body. Was a length ball in the channel
-24,3.3,O'Rourke,Gill,0,"Length on middle and off, 137ks, Gill slides across a touch and closes the flick to midwicket. Played without much weight transfer"
-25,3.3,O'Rourke,Gill,N/A,Down leg. Four wides so far this innings. This was fullish and got decent bounce
-26,3.4,O'Rourke,Gill,2,"Gill's arms swivel in a flash as he dances down and pulls to the left of deep fine leg. Ravindra charges and tumbles to stop it. Great shot though, 143ks shortish ball, yet Gill forced it with muscle"
-27,3.5,O'Rourke,Gill,0,"Length in the channel, vertical-bat punch is firm and goes to cover"
-28,3.6,O'Rourke,Gill,0,"Lbw appeal but that appeared to be going down leg. Fullish length ball at 137ks landed around off, might've swung in late. Gill's head fell over as he tried to hit it through midwicket"
-29,4.1,Jamieson,Rohit Sharma,0,"Seam-up. Length on middle, defensive flick takes it towards square leg"
-30,4.2,Jamieson,Rohit Sharma,0,"Punches the full ball on fourth, 135ks, to mid-off."
-31,4.3,Jamieson,Rohit Sharma,0,"Beaten on the aerial flick, Rohit wanted to go square, maybe even behind. There is deep square leg, 68 metres away. He saw the fullish ball angle in, lifted the back leg and tried to elevate it. Missed it completely"
-32,4.4,Jamieson,Rohit Sharma,1,Flicks the length ball off the pad through square leg
-33,4.5,Jamieson,Gill,0,"Fullish on fifth, 130ks, might've swung back in a touch. Let go"
-34,4.6,Jamieson,Gill,0,"Bad ball, gets away with it. Very wide on a length, 129ks, sat up perfectly for the cut that Gill nailed. Found cover point"
-35,5.1,Smith,Rohit Sharma,0,"Fullish on fifth, defended to point"
-36,5.2,Smith,Rohit Sharma,0,"Length at the stumps, worked back to the bowler"
-37,5.3,Smith,Rohit Sharma,6,"Rohit breaks free this time, that's a massive six over cow corner. Crowd love it. Pre-meditated. He danced down to a 137ks length ball, had a baseball swing across the hip. All horizontal, the ball sailed 92 metres far."
-38,5.4,Smith,Rohit Sharma,0,"Smith follows him as he makes room this time. 136ks on a length, Rohit has to check his shot, jabs it into the off side of the pitch"
-39,5.5,Smith,Rohit Sharma,1,"Length over top of middle, clipped through square leg"
-40,5.6,Smith,Gill,1,"Length on off, 132ks, clipped to deep square leg, who moves to his diagonal right to stop it"
-41,6.1,Jamieson,Gill,0,"Length on leg, defended to the bowler's right"
-42,6.2,Jamieson,Gill,1,"Mitchell puts down a one-hander at midwicket. India missed a few half-chances, NZ have lost one. He leapt to his right, tried to take it just over head-height, his dive was stunted by the fact that he was too near to the ball. The hands extended, his left leg was up but the right leg and hand were flailing to the right, and the ball burst through. Graphic shows he was 24 metres far. Gill came down the track and tried to whip it. Off the bottom of the bat it came"
-43,6.3,Jamieson,Rohit Sharma,0,"Length on off, defended to cover"
-44,6.4,Jamieson,Rohit Sharma,4,"Rohit pulls it over midwicket. One-bounce four. Length ball, top-of-stump height at best. Rohit lifted it with a bat swing going from low to high. Got it flat too"
-45,6.5,Jamieson,Rohit Sharma,0,"Beaten on the flashing square drive. Back of a length, in the channel, might've bounced more than Rohit expected"
-46,6.6,Jamieson,Rohit Sharma,1,"Length in the channel, open-faced slice takes it to the left of Phillips at backward point. He swoops and slides it keep it to one"
-47,7.1,Smith,Rohit Sharma,0,"Pitched up, punchy drive takes it to mid-on"
-48,7.2,Smith,Rohit Sharma,6,"And it reaches crescendo as the ball clears the straight boundary. Fifty up for India. He stood slightly leg side of the ball, the front foot strode out late, the bat whooshed through the line. The straight drive got a lot of height on it, felt for a second like it was too high, but no, it sailed 83 metres far. Peak height was 25 metres"
-49,7.3,Smith,Rohit Sharma,0,"On the pads, looks to flick it. Off the pads it goes into grass"
-50,7.4,Smith,Rohit Sharma,4,"Brilliant lap sweep lifted over short fine leg! Rohit's back foot was in front of middle, front foot outside off, the torso went across, the head was in line with the ball, Rohit drove the bat through and got it off the middle"
-51,7.5,Smith,Rohit Sharma,0,Driven off a length while standing upright. Takes the length ball in the channel to cover
-52,7.6,Smith,Rohit Sharma,4,"Slapped over point, NZ's pacers getting carted. This was wide, not too short but that didn't matter. Rohit stood in the crease and belted it after the ball came in line with him"
-53,8.1,Santner,Gill,0,"Length on fourth, square driven late. Finds point. Santner gave it air, got good bounce. No spin though"
-54,8.2,Santner,Gill,0,"Length on fourth, jabbed with a horizontal bat to cover"
-55,8.3,Santner,Gill,0,"Good ball. On a length, off-stump line, 91ks. Gill looks to defend to the bowler's left, thick outside edge takes it towards point"
-56,8.4,Santner,Gill,1,"Length on leg, clipped to midwicket"
-57,8.5,Santner,Rohit Sharma,0,"Full on off, defended to cover"
-58,8.6,Santner,Rohit Sharma,0,"Fullish on middle, defended back to the bowler. 92ks. Think Rohit could've danced down the pitch and pumped it over the bowler's head, but he's not taking chances against Santner"
-59,9.1,Ravindra,Gill,0,"A bit of turn away. 85ks, fullish length, landed around fourth and Gill drove it to cover. Ball hovered low and went to him on the bounce"
-60,9.2,Ravindra,Gill,1,"Quick single to midwiclet. Length on middle and leg, flicked off the back foot. 94ks"
-61,9.3,Ravindra,Rohit Sharma,0,"Full on leg, 93ks, pushed back to the bowler"
-62,9.4,Ravindra,Rohit Sharma,1,"Full at the stumps, loopy, driven to long-off"
-63,9.5,Ravindra,Gill,1,"Champan saves three at point. He was on the edge of the ring, moved to the left and dove to catch the ball after the passed him. Was a shortish ball outside off that was cut"
-64,9.6,Ravindra,Rohit Sharma,1,"Length on fourth, punched to long-off"
-65,10.1,Santner,Rohit Sharma,1,That is a top half-century for Rohit. A captain's knock just when it was needed the most.Gets there off just 41 balls and it's made India's chase very easy. He reaches there by driving Santner to deep cover
-66,10.2,Santner,Gill,0,"Angled in fuller on off, he punches to the left of Santner who does well to his left"
-67,10.3,Santner,Gill,0,Angles this slower on off stump as he strides forward and defends
-68,10.4,Santner,Gill,0,"Pushed quicker at 90.1kph on off, he defends back towards the bowler"
-69,10.5,Santner,Gill,0,"Flatter at 87kph around off, he pushes to cover"
-70,10.6,Santner,Gill,0,Big turn for Santner.Hangs the length ball on off and gets it to turn away late past Gill's outside edge
-71,11.1,Ravindra,Rohit Sharma,1,"Flatter and stifle short on middle stump, he pushes to long-on for a run"
-72,11.2,Ravindra,Gill,0,"Floated outside off, he slices towards point"
-73,11.3,Ravindra,Gill,1,"Short and wide, he cuts this to deep point"
-74,11.4,Ravindra,Rohit Sharma,0,Arm ball that slides back into Rohit who just gets his bat down in time and defends towards cover
-75,11.5,Ravindra,Rohit Sharma,4,"Edged, but he gets four.Tossed up outside off, turning away from Rohit, who drives on the up, gets a thick outside edge and with no slip there, it was always flying away"
-76,11.6,Ravindra,Rohit Sharma,0,Was there an edge? Don't think so.Short and wide at 98kph outside off. He shapes up for the cut and gets beaten
-77,12.1,Santner,Gill,2,Drops his length and gets punished. Was outside off as Gill hops back and pulls to the left of deep midwicket
-78,12.2,Santner,Gill,1,"Shortens his length outside off, he stays back and pushes past point for a run"
-79,12.3,Santner,Rohit Sharma,1,"Angles the length ball on leg stump, he works this behind square for a run"
-80,12.4,Santner,Gill,0,"Flatter on leg stump, he works this to midwicket"
-81,12.5,Santner,Gill,1,"Tossed up on off stump, Gill drives handsomely past extra cover for a run"
-82,12.6,Santner,Rohit Sharma,0,"Angles the length ball on middle, Rohit gets forward and defends"
-83,13.1,Ravindra,Gill,1,Tossed up fuller on off at 87kph. Gill drives to long-off for a run
-84,13.2,Ravindra,Rohit Sharma,2,Gives him a bit of width as he stays back and slashes this past point for a couple of runs
-85,13.3,Ravindra,Rohit Sharma,0,"Floated outside off stump, Rohit stays leg side of the ball and pushes to Rachin"
-86,13.4,Ravindra,Rohit Sharma,0,"Angled in flatter on middle and leg, he defends to the on-side"
-87,13.5,Ravindra,Rohit Sharma,1,"Stifle short on middle and leg, he stays back and punches to long-on for a run"
-88,13.6,Ravindra,Gill,6,"UP AND OVER!Charges down the track, gets under the ball and launches Ravindra over long-on. There was a fielder in place but Gill did not care. Made that look so easy there, did Gill"
-89,14.1,Santner,Rohit Sharma,0,"Fuller on middle stump, he digs this to extra cover"
-90,14.2,Santner,Rohit Sharma,4,Marginally short but Rohit is so quick in picking lengths. Hops back in an instant and pulls in the gap between deep midwicket and long-on
-91,14.3,Santner,Rohit Sharma,1,Hangs this at 78kph on off as he slashes this past point for a run
-92,14.4,Santner,Gill,1,"Tossed up on off, he drives to long-off with ease"
-93,14.5,Santner,Rohit Sharma,1,"Flatter at 92kph outside off, he prods forward and drives to deep cover"
-94,14.6,Santner,Gill,0,"Angled in on a length on leg stump, he works this to midwicket."
-95,15.1,Ravindra,Rohit Sharma,1,"Floated just around off stump, he flicks this aerially but wide of short midwicket for a run down to long-on"
-96,15.2,Ravindra,Gill,0,"Pushed quicker on off stump, he defends back to the bowler"
-97,15.3,Ravindra,Gill,0,"Angles the length ball on middle and leg, he clips this to short midwicket"
-98,15.4,Ravindra,Gill,1,"Dragged down outside off stump, he shovels this to deep square leg"
-99,15.5,Ravindra,Rohit Sharma,1,"Shortish in length again on leg stump, he hops back and pulls to deep square leg's left for a run"
-100,15.6,Ravindra,Gill,1,"Fuller on middle stump, he drives firmly to wide long-off"
-101,16.1,Santner,Gill,0,Hint of turn away from Gill outside off. He pushes to cover with an angled bat
-102,16.2,Santner,Gill,1,"On the bounce to long-off. Was angled in on the stumps, he chips this to the fielder. Think he was in control, there"
-103,16.3,Santner,Rohit Sharma,0,"Angles the length ball around off stump, Rohit gets forward and defends"
-104,16.4,Santner,Rohit Sharma,0,Arm ball at 91.6kph on off. Rohit brings his bat down in time and pushes back towards the bowler
-105,16.5,Santner,Rohit Sharma,1,Floated on leg stump rather just outside as Rohit gets outside the line and eases to long-on
-106,16.6,Santner,Gill,1,"Darts the length ball on the stumps, he gets across and punches back to the bowler, who misfields and concedes a run.The 100 is up as well for India in 17 overs."
-107,17.1,Ravindra,Gill,0,"Flatter length ball just outside off, he chops this down to point"
-108,17.2,Ravindra,Gill,1,"Fired in on middle and leg, he works this behind square for a run"
-109,17.3,Ravindra,Rohit Sharma,1,Gently floated on off stump at 85.5kph as Rohit pushes to long-off for a run
-110,17.4,Ravindra,Gill,0,"Much quicker at 92kph on off stump, he bunts this to the left of Rachin who makes a sprawling dive and intercepts"
-111,17.5,Ravindra,Gill,1,"Floated outside off, he charges down and slams this down the ground. O'Rourke hares across to his left and saves three"
-112,17.6,Ravindra,Rohit Sharma,0,"Tossed up outside off, he opens the face of the bat a touch and guides to point. That will be drinks with India cruising."
-113,18.1,Santner,Gill,2,"Stifle short on off stump, he stays back and pulls to the right of deep backward square leg for a couple of runs"
-114,18.2,Santner,Gill,0,"Hint of turn on middle, he prods half-forward and blocks"
-115,18.3,Santner,Gill,0,"Tossed up on off, he drives firmly to GP at extra cover"
-116,18.4,Santner,Gill,-1,"Has anyone seen Superman and Phillips in the same room? I doubt it.He has just caught another blinder. And this one really is an absolute blinder. Floated outside off, he looks to go up and over GP at short extra cover. That was a boundary if anyone else was there. Not when GP is there. He leaps, flicks out his right hand and hangs on to a stunner. Flashes a big smile right after."
-117,18.5,Santner,Kohli,1,"Tossed up on middle and leg, he works this past square leg to get off the mark"
-118,18.6,Santner,Rohit Sharma,0,"Tossed up outside off, he shoulders arms"
-119,19.1,Michael Bracewell,Kohli,-1,"He's rapped on the pad first ball and the umpire is given it out.Oh, wow, that's a big decision. Will Kohli review?He has to, almost and he does.Tossed up outside off turning back into Kohli who misses the flick and is caught in front. That looks plumb on first viewing. What does the tracker say?Struck in line - yes. Going onto hit the stumps - Oh, yes!Bracewell is pumped up and NZ suddenly have an opening"
-120,19.2,Michael Bracewell,Shreyas Iyer,0,"Slower good length ball on off, he works this to short midwicket"
-121,19.3,Michael Bracewell,Shreyas Iyer,1,"On a length outside off, he eases to long-on"
-122,19.4,Michael Bracewell,Rohit Sharma,0,"Tossed up on off, worked to square leg"
-123,19.5,Michael Bracewell,Rohit Sharma,1,"Floated just outside off, he eases to long-on"
-124,19.6,Michael Bracewell,Shreyas Iyer,0,"Tossed up length ball turning into middle and leg, he ticks this to square leg"
-125,20.1,Santner,Rohit Sharma,0,"Length on fourth, punched while on the back foot to cover"
-126,20.2,Santner,Rohit Sharma,0,"Full on middle and leg, 81ks, defended to the bowler. More a round-arm ball"
-127,20.3,Santner,Rohit Sharma,1,"Full on middle and leg, flicked to long-on. Pace very slow"
-128,20.4,Santner,Shreyas Iyer,4,"Shreyas needs no sighters, the ball sat up off a length and he twirl-pulled way over midwicket. No one in the deep. Back foot was in the crease, the front foot slid back too"
-129,20.5,Santner,Shreyas Iyer,0,"Darter this time by Santner, on a length and angled towards top of leg. Beats him on the flick"
-130,20.6,Santner,Shreyas Iyer,0,"Full around off, defended to point, who's close in"
-131,21.1,Michael Bracewell,Rohit Sharma,0,"Length on fourth, worked off the back foot to midwicket"
-132,21.2,Michael Bracewell,Rohit Sharma,1,"Another flick beaten, pad hit, but height might've been the issue here. Given runs, is it? Was a length ball that drifted away to land in line with fifth and finished around top of off after beating the inside edge"
-133,21.3,Michael Bracewell,Shreyas Iyer,0,"Full around off, worked back to the bowler"
-134,21.4,Michael Bracewell,Shreyas Iyer,0,"Fullish on off, Shreyas goes back and works it to the leg side"
-135,21.5,Michael Bracewell,Shreyas Iyer,1,"Tight single to point's left. Shreyas the caller there, Rohit was a touch hesitant but charged through. Was a full ball around off that was defended"
-136,21.6,Michael Bracewell,Rohit Sharma,0,"Fullish on off, flicked to the leg side."
-137,22.1,Ravindra,Shreyas Iyer,0,Shreyas' weight is on the front foot and that yorks him. He manages to punch the ball back to the bowler
-138,22.2,Ravindra,Shreyas Iyer,1,"Full outside off, 88ks, punched to sweeper cover"
-139,22.3,Ravindra,Rohit Sharma,1,"Full on middle, 89ks, punched to long-off"
-140,22.4,Ravindra,Shreyas Iyer,0,"Full on middle and leg, backs away and drives to cover"
-141,22.5,Ravindra,Shreyas Iyer,0,"Full on leg, worked back to the bowler"
-142,22.6,Ravindra,Shreyas Iyer,0,"Full on middle and leg, clipped through midwicket. 98ks"
-143,23.1,Michael Bracewell,Rohit Sharma,1,"Rohit dances down, turns the length ball into a full one and flicks it to long-on. 84ks"
-144,23.2,Michael Bracewell,Shreyas Iyer,1,"Length down leg, Shreyas is moving about in the crease a lot. He finishes square on and reaches down leg for the flick, gets it to deep square leg"
-145,23.3,Michael Bracewell,Rohit Sharma,0,"Length on leg, beats the flick and hits top of pad. Ball goes where short leg woulda been"
-146,23.4,Michael Bracewell,Rohit Sharma,2,Gentle lap sweep. Rohit got into position early and had to delay his shot a bit but got the full ball on the stumps real fine. Stopped in the deep
-147,23.5,Michael Bracewell,Rohit Sharma,0,Works it off the front foot to mid-on
-148,23.6,Michael Bracewell,Rohit Sharma,0,"Driven off the bottom of the bat, skewed wide to the left of the bowler. He leaps low but can't get hands on the hovering ball. It goes to mid-off"
-149,24.1,Ravindra,Shreyas Iyer,1,Goes back and punches it to long-off
-150,24.2,Ravindra,Rohit Sharma,0,Punched off the back foot to the bowler
-151,24.3,Ravindra,Rohit Sharma,0,"Length on off, 95ks, Rohit slides his front leg to the leg side and drives to the bowler"
-152,24.4,Ravindra,Rohit Sharma,0,"Ooh, Rohit was in trouble there. Lbw and caught midwicket were in play. He tried to sweep the full ball well in front of the body, was too early on it. The bottom hand might've come off but the ball went into the"
-153,24.5,Ravindra,Rohit Sharma,0,"Full around fourth, defended to the bowler's left. 93ks"
-154,24.6,Ravindra,Rohit Sharma,0,"Fullish length ball on the pads, clipped to midwicket"
-155,25.1,Michael Bracewell,Shreyas Iyer,0,"Taken? No, it doesn't carry back to the bowler. Bracewell reached and fell forward but got half-volleyed. Was a length ball that landed around off and spun in sharply. Shreyas was going square on seamlessly but realised midway into the shot that he didn't account for the turn or the slowness. Got a leading edge that lobbed, but luckily for him the lack of power worked for him in the end"
-156,25.2,Michael Bracewell,Shreyas Iyer,0,"Full at the stumps, worked back to the bowler"
-157,25.3,Michael Bracewell,Shreyas Iyer,0,Driven off the back foot to mid-off
-158,25.4,Michael Bracewell,Shreyas Iyer,0,"Full on fourth, defended to cover. 91ks"
-159,25.5,Michael Bracewell,Shreyas Iyer,0,"Full on fourth, 89ks, worked to midwicket"
-160,25.6,Michael Bracewell,Shreyas Iyer,0,"Full on fourth, worked to the bowler's right"
-161,26.1,Ravindra,Rohit Sharma,-1,"The Squeeze. IS. ON! In fact, NZ have squeezed water out of stone. Rohit dances down and gets stumped! Huge moment, he waslks back with his head down for most of the way back. Applause from the crowd but NZ are well in the game now. First ball of the over, Rohit looked to manufacture a boundary. Was a shortish ball outside off that spun away, was a pre-meditated shot from Rohit. He charged down and tried to slap it over cover"
-162,26.2,Ravindra,Axar Patel,0,"Sharp spin in, from a shortish length, punched off the back foot to midwicket"
-163,26.3,Ravindra,Axar Patel,0,"Full outside off, driven to cover"
-164,26.4,Ravindra,Axar Patel,0,"Full outside off, driven to cover"
-165,26.5,Ravindra,Axar Patel,0,Shortish ball bounces extra and beats the cut and hits him on the thigh pad
-166,26.6,Ravindra,Axar Patel,0,Goes back and punches the length ball on off to mid-off
-167,27.1,Michael Bracewell,Shreyas Iyer,0,"Full on fifth, defended to point. 88ks."
-168,27.2,Michael Bracewell,Shreyas Iyer,0,"Dances down, gets to the pitch and works it back to the bowler"
-169,27.3,Michael Bracewell,Shreyas Iyer,6,"Young tries to take a blinder, has to throw the ball back though. Has he stepped on the cushion though? Yes, replays show. He moved to the right, was facing right too and tried to take it above head. took it with both hands but one of the feet landed too quickly. Was a length ball to which Shreyas danced down and flicked with a full follow-through"
-170,27.4,Michael Bracewell,Shreyas Iyer,0,"Length down leg, flicked off the back foot with the spin"
-171,27.5,Michael Bracewell,Shreyas Iyer,0,"Full on fifth, 90ks, punched to cover"
-172,27.6,Michael Bracewell,Shreyas Iyer,0,"Full on fifth, 89ks, defended to point"
-173,28.1,Phillips,Axar Patel,1,"Full around off, worked to long-on"
-174,28.2,Phillips,Shreyas Iyer,2,"Bad misfield at short third by O'Rourke, Run-out chance? Axar was three-fourth of the way down but the throw never comes. Young twisted his ankle as he turned which let Shreyas off the hook. Was a length ball outside off that Shreyas tried driving through cover."
-175,28.3,Phillips,Shreyas Iyer,0,"Length at the stumps, worked to midwicket. 90ks"
-176,28.4,Phillips,Shreyas Iyer,1,Shovel pulls a length ball down leg to deep fine leg. Might've been a touch late on it
-177,28.5,Phillips,Axar Patel,0,"Length on fourth, driven from the crease to cover"
-178,28.6,Phillips,Axar Patel,1,"Phillips boling to Axar like Axar bowled to him earlier in the evening. 89ks, flat on leg stump, punched to long-on"
-179,29.1,Michael Bracewell,Axar Patel,0,Single stopped with a dive to the right at mid-on.
-180,29.2,Michael Bracewell,Axar Patel,0,"Full on middle, defended to the bowler"
-181,29.3,Michael Bracewell,Axar Patel,1,"Goes back and punches it to long-on. Length on middle and off, Axar moved leg side and got the front leg in the air which made even more room"
-182,29.4,Michael Bracewell,Shreyas Iyer,1,"Full down leg, 88ks, glanced to short fine leg"
-183,29.5,Michael Bracewell,Axar Patel,0,"Fullish on leg, defended to the bowler's left. 88ks."
-184,29.6,Michael Bracewell,Axar Patel,1,"Full on off, 82ks, driven to long-off"
-185,30.1,Phillips,Axar Patel,1,"Wide and fullish, slapped to long-off."
-186,30.2,Phillips,Shreyas Iyer,1,"Full on off, 91ks, worked to long-on"
-187,30.3,Phillips,Axar Patel,1,"Fullish on middle, looked quick off the pitch. 93ks. Axar tried to drive straight, inside edged it through square leg"
-188,30.4,Phillips,Shreyas Iyer,1,"Length on fifth, square driven off the back foot to deep point"
-189,30.5,Phillips,Axar Patel,0,"Full on middle, 87ks, flicked to midwicket"
-190,30.6,Phillips,Axar Patel,1,"Wide on a length, slapped to long-off. Risk-free five runs off the over"
-191,31.1,Michael Bracewell,Axar Patel,1,"Fullish outside off, pushed to long-off"
-192,31.2,Michael Bracewell,Shreyas Iyer,0,"Fullish at the stumps, defended to cover"
-193,31.3,Michael Bracewell,Shreyas Iyer,0,"Length ball lands around off and spins down leg, glanced with the turn to short fine leg. 86ks"
-194,31.4,Michael Bracewell,Shreyas Iyer,2,"Two dots and Shreyas charges down to whip hm over midwicket. The bat-face turned inwards on impact but there was enough elevation to eliminate the risk of a wicket. Floated a touch, Shreyas got to the pitch and was in position, got it off the bottom of the bat"
-195,31.5,Michael Bracewell,Shreyas Iyer,1,Goes back and whips it to deep midwicket
-196,31.6,Michael Bracewell,Axar Patel,0,"Wide and slow on a fullish length, underedged cut goes to point"
-197,32.1,Phillips,Shreyas Iyer,1,"Fullish outside off, pushes it with an open bat-face to point"
-198,32.2,Phillips,Axar Patel,1,Goes back and drives the length ball to long-on
-199,32.3,Phillips,Shreyas Iyer,1,"Loopy fullish ball outside off, stock ball. 86ks. Pushed through point"
-200,32.4,Phillips,Axar Patel,1,"Length on fourth, pulled to wide long-on"
-201,32.5,Phillips,Shreyas Iyer,4,Swatted just wide of square leg. Catchable height but well to the left of Chapman at square leg. He flung his body but the ball sped past him. Was a shortish ball that didn't rise much and Shreyas pulled it while crouching. Great hand speed. India 99 away now
-202,32.6,Phillips,Shreyas Iyer,1,"Fullish on fifth, 91ks, open-faced push takes it to backward point"
-203,33.1,Michael Bracewell,Shreyas Iyer,1,"Length on middle, flicked to long leg. Aaron Finch, on air, says the pressure seems to be waning off India"
-204,33.2,Michael Bracewell,Axar Patel,1,"Fullish on fourth, driven through cover"
-205,33.3,Michael Bracewell,Shreyas Iyer,1,"Good single to the left of cover point. Tossed-up fullish ball at the stumps, Shreyas' body was lunging forward early but he took the power off the full-faced block. It opened up to allow the ball trickle off side"
-206,33.4,Michael Bracewell,Axar Patel,0,"Drives the full ball back to the bowler. Stopped in the follow-through, lots of revs on that"
-207,33.5,Michael Bracewell,Axar Patel,1,Cuts the length ball outside off to deep point
-208,33.6,Michael Bracewell,Shreyas Iyer,1,"Shortish ball on fifth spins back, Shreyas is able to cut it nicely. Finds sweeper cover"
-209,34.1,Phillips,Shreyas Iyer,0,Beaten on the cut. Loopy shortish offbreak landed wide outside off and spun in a touch. Not much bounce or pace to work with
-210,34.2,Phillips,Shreyas Iyer,0,Dances down but has to slice it as the ball was shortish. Gets it to short third
-211,34.3,Phillips,Shreyas Iyer,1,"Length on off, punched to long-on off the back foot"
-212,34.4,Phillips,Axar Patel,1,Stop the press. Phillips misfields. Just a single allowed though. He moved to the left in follow-through and slid low. Was a length ball at the stumps that was punched with the full-faced bat
-213,34.5,Phillips,Shreyas Iyer,0,Tucks it off the back foot through midwicket
-214,34.6,Phillips,Shreyas Iyer,0,"Shreyas wanted the single, Axar sends him back... like he did the second ball of the over. This was a length ball on fourth that was defended to the keeper's left"
-215,35.1,O'Rourke,Axar Patel,0,"Good length ball angling into Axar on middle and leg, he mistimes to mid-on"
-216,35.2,O'Rourke,Axar Patel,1,"Back of a length ball on middle stump, he stands tall and bunts to mid-on and sets off"
-217,35.3,O'Rourke,Shreyas Iyer,1,"Good length ball outside off, he carves it to deep point"
-218,35.4,O'Rourke,Axar Patel,0,On a length angling into Axar on middle. He whisks this to midwicket. Hit that fairly firmly but couldn't find the gap
-219,35.5,O'Rourke,Axar Patel,1,"Banged in short on middle, he splices to deep midwicket for a run"
-220,35.6,O'Rourke,Shreyas Iyer,2,"Banged in short as expected outside off stump, he swivels and pulls to the right of deep midwicket for a couple of runs to end the over"
-221,36.1,Phillips,Axar Patel,1,"Flatter on middle and leg, he chips this aerially to long-on for a run"
-222,36.2,Phillips,Shreyas Iyer,0,"Goes flatter and drags his length on off, he pushes back to the bowler"
-223,36.3,Phillips,Shreyas Iyer,6,"WHACKED!Floated outside off stump. He bends down on one knee, gets under it and absolutely smokes this over deep midwicket for a 109m six. That is huge!"
-224,36.4,Phillips,Shreyas Iyer,1,"DROPPED by Jamieson at long-on!That is such a huge moment in the game. Floated on off, he charges down, gets too close to the ball and hits this straight to Jamieson who has dropped an absolute sitter"
-225,36.5,Phillips,Axar Patel,1,"Flatter on middle and leg, worked to square leg for a run"
-226,36.6,Phillips,Shreyas Iyer,1,"Floats this on off stump, he prods forward and eases past Phillips down to long-on"
-227,37.1,O'Rourke,Shreyas Iyer,1,"Back of a length ball outside ff, he steers this down to deep third"
-228,37.2,O'Rourke,Axar Patel,1,"Back of a length ball on middle and leg, he works this to deep backward square leg"
-229,37.3,O'Rourke,Shreyas Iyer,1,"Banged in short outside off, he looks to just help this fine, gets a soft top-edge to deep fine leg"
-230,37.4,O'Rourke,Axar Patel,0,"Sharp good length ball on middle, he ticks this to midwicket"
-231,37.5,O'Rourke,Axar Patel,4,"Pulled with disdain, and he gets a four for his effort. Stunning shot!Back of a length ball on the stumps, he whips it past mid-on with authority"
-232,37.6,O'Rourke,Axar Patel,0,"Again, confusion with the running but Iyer is safe.Good length on off, he pushes to mid-off and takes a few steps down the track before going back. Iyer commits to the single only to turn back in time. There is a direct hit, but Iyer was in. That will be drinks"
-233,38.1,Santner,Shreyas Iyer,0,Angled in on off stump as Iyer prods forward and pushes to cover
-234,38.2,Santner,Shreyas Iyer,0,"Flatter on leg stump, he was looking to work this away but misses and is rapped on the pad"
-235,38.3,Santner,Shreyas Iyer,0,"Floated outside off, he drives to extra cover"
-236,38.4,Santner,Shreyas Iyer,-1,"In the air and taken by Ravindra sprinting to his left from short fine leg.That is a lovely catch by him diving low. Stifle short on middle stump, he gets across looking to pull this fine, gets it off the splice. Rachin moves beautifully to his left and grabs this inches off the turf"
-237,38.5,Santner,Rahul,1,"Floated outside off, he stretches forward and drives to deep cover"
-238,38.6,Santner,Axar Patel,6,"SMOKED for six!Tossed  up on the stumps, he brings out the slog sweep and nails that over deep backward square leg"
-239,39.1,Michael Bracewell,Rahul,0,"Flatter on off stump, he stays back and pushes to the bowler"
-240,39.2,Michael Bracewell,Rahul,0,"Tossed up outside off, he shimmies down the track and ticks to midwicket"
-241,39.3,Michael Bracewell,Rahul,0,Turns the length ball into Rahul who stays back and pushes to cover
-242,39.4,Michael Bracewell,Rahul,0,"Flatter length ball around off stump, he stays back and pushes this to straight midwicket"
-243,39.5,Michael Bracewell,Rahul,1,"A yes and no situation and they make it home, eventually Tossed up on off, he works this to Santner's left at square leg. Miscommunication but here was always a run on"
-244,39.6,Michael Bracewell,Axar Patel,0,"Slower length ball on middle, he works this to midwicket"
-245,40.1,Santner,Rahul,1,"Flatter length ball on middle stump, he plays with an open face of the bat to GP's left at extra cover and takes a quick run"
-246,40.2,Santner,Axar Patel,0,"Flattish length ball on off, he stays back and works this to midwicket"
-247,40.3,Santner,Axar Patel,1,Drags down his length outside off as Axar stays back and punches to long-off
-248,40.4,Santner,Rahul,6,"Going, going, gone!Gently tossed up on leg stump. Rahul clears his front leg, gives himself some room and goes miles over long-on"
-249,40.5,Santner,Rahul,2,"Short and wide outside off, he stays back and slaps to the right of GP at short extra cover. He gets a hand to it, but can't prevent two. India's 200 is up"
-250,40.6,Santner,Rahul,1,"Angled in on middle, he works this with soft hands towards deep midwicket for a run"
-251,41.1,Michael Bracewell,Rahul,0,"Tossed up on off, he works this calmly to square leg"
-252,41.2,Michael Bracewell,Rahul,1,"Tossed up on middle stump, he clips this past GP at short midwicket for a run"
-253,41.3,Michael Bracewell,Axar Patel,-1,"Axar falls and Bracewell has another one.That's not Axar's best moment, I must add. Floated on off stump, he takes a couple of steps down the track and looks to go over long-off. Completely mis-hits this and O'Rourke takes a safe catch."
-254,41.4,Michael Bracewell,Hardik,0,"Flatter length ball on off, Pandya prods forward and defends"
-255,41.5,Michael Bracewell,Hardik,0,"Darted in on off stump, Pandya stretches forward and defends"
-256,41.6,Michael Bracewell,Hardik,0,"Slows up the length ball outside off, he gets half-forward and blocks"
-257,42.1,Santner,Rahul,0,"Angles the length ball on middle, he prods forward and defends back to the bowler"
-258,42.2,Santner,Rahul,0,"Floated outside off, he plays with an open face of the blade to cover point's right. Rahul wanted the run, Pandya didn't"
-259,42.3,Santner,Rahul,1,"Tossed up on middle, he stays leg side of the ball and eases it to long-off"
-260,42.4,Santner,Hardik,1,"Tad bit short on leg stump, he works this to the on-side for a quick run"
-261,42.5,Santner,Rahul,0,"Good length ball outside off, he pushes to the right of cover point. He wanted a run but is sent back again"
-262,42.5,Santner,Rahul,N/A,Flatter and well down leg. Called a wide
-263,42.6,Santner,Rahul,0,Angles the full-length ball on the stumps which is batted back to the bowler. Santner finishes with 2 for 46 off his ten
-264,43.1,Ravindra,Hardik,1,"Tossed up on leg stump, he pushes to long-on for a run"
-265,43.2,Ravindra,Rahul,0,"Floated outside off, he opens the face of the bat and steers to point"
-266,43.3,Ravindra,Rahul,1,"Short and wide, he drills this to deep cover but only for a run"
-267,43.4,Ravindra,Hardik,2,"Whacked for a couple of runs. Dragged down again outside off, he clatters this through covers and to the right of sweeper"
-268,43.5,Ravindra,Hardik,1,"Short, wide one more time. He cuts this hard to sweeper cover. Not the best over from Rachin so far"
-269,43.6,Ravindra,Rahul,1,"Tossed up on middle, he ticks this to deep midwicket with soft hands where GP comes charging in and prevents the second. He fails to pick up cleanly and had the two committed to the second run, they would have been home easy"
-270,44.1,O'Rourke,Rahul,4,"Four to start the 45th over. Too full outside off, Rahul stays still and drills the cover drive away from the fielder deep."
-271,44.2,O'Rourke,Rahul,2,"Good length ball outside off, he pats this to the left of point and they get two more"
-272,44.3,O'Rourke,Rahul,1,Good length ball again outside off as Rahul steers this to the right of Chapman at point for a run again
-273,44.4,O'Rourke,Hardik,0,back of a length ball on Pandya's hips around middle and leg. He gets across and tips this to midwicket
-274,44.5,O'Rourke,Hardik,0,"Too short outside off stump, Pandya lets this go. Think he was looking for a wide, not given."
-275,44.6,O'Rourke,Hardik,1,"Length ball on his pads, Pandya flicks this with authority but there is a fielder stationed at deep midwicket"
-276,45.1,Ravindra,Hardik,6,CRRRRUNCHED!Tossed up right in his arc on middle. He extends his arms and sends this sailing straight over the bowler's head for a huge six
-277,45.2,Ravindra,Hardik,0,"Flatter outside off, he drills this to extra cover"
-278,45.3,Ravindra,Hardik,1,"Flatter outside off, he chops this onto the pitch with the ball going to point. They take a quick run"
-279,45.4,Ravindra,Rahul,0,"Quicker length ball outside off, he mistimes this back towards the bowler"
-280,45.5,Ravindra,Rahul,1,Shimmies down the track and eases the length ball to long-on for a run
-281,45.6,Ravindra,Rahul,1,"Floated outside off, he pushes to extra cover for a run. 11 off the over."
-282,45.6,Ravindra,Hardik,N/A,"Tossed up outside off, Pandya lets the ball go and that's been called a wide. Ooh, think that's a tight call. Latham missed and conceded a bye as well"
-283,46.1,O'Rourke,Rahul,1,"Banged in short, he mistimes his pull to deep backward square leg for a run"
-284,46.2,O'Rourke,Hardik,0,"Swish and a miss!Back of a length ball skidding through at pace on off. He was looking to pull that away, but gets beaten"
-285,46.3,O'Rourke,Hardik,4,"BANG! Good length ball outside off, he jumps down the track and muscles it over mid-off. The ball goes to the fence one bounce"
-286,46.4,O'Rourke,Hardik,1,"Fuller in length outside off, he drives to deep cover"
-287,46.5,O'Rourke,Rahul,2,"Big miscommunication, but no harm done.Good length ball on leg stump, he works this fine to Rachin who fires in a throw. Both Rahul and Pandya are almost at the same end. Eventually, no harm done."
-288,46.6,O'Rourke,Rahul,1,"Banged in short at shoulder height, he pulls to deep square leg for a run"
-289,47.1,Jamieson,Rahul,1,"Back of a length ball on off, he mistimes towards the off side, they take a quick run"
-290,47.2,Jamieson,Hardik,0,"Sharp short of a length ball outside off, he sways outside the line of that"
-291,47.3,Jamieson,Hardik,-1,Straight up and taken by Jamieson. Is it not over yet?Sharp bouncer shoulder-high on off. Pandya is rushed into the pull and can only manage a top-edge that goes straight up and is held by Jamieson with ease
-292,47.4,Jamieson,Jadeja,2,"Back of a length ball on his hips, he works this to deep backward square leg and takes a couple of runs"
-293,47.5,Jamieson,Jadeja,2,"Two more! India getting closer. Banged in short on middle, he hooks to deep backward square leg"
-294,47.6,Jamieson,Jadeja,0,"Back of a length ball outside off, he chops this to point and sets off for a run only to be sent back. Chapman underarms a direct throw but Jadeja is in"
-295,48.1,O'Rourke,Rahul,2,"Yorker on off stump, he squirts this past a diving point for a couple of runs"
-296,48.2,O'Rourke,Rahul,1,"Good length ball on off, he gets a thick inside-edge to the on-side for a run"
-297,48.3,O'Rourke,Jadeja,0,"Good length ball on leg stump, the ball flicks his pad through to the keeper"
-298,48.4,O'Rourke,Jadeja,1,"Fuller in length on off, he pushes to mid-off and sets off"
-299,48.5,O'Rourke,Rahul,1,"Banged in short, he nails the pull to deep square leg on the bounce"
-300,48.6,O'Rourke,Jadeja,4,"INDIA WIN THE CHAMPIONS TROPHY!A third title for them in the competition. And this surely has to be the most comprehensive. Unbeaten all through the tournament and have rarely been challenged at any stage. It is Ravindra Jadeja, who hits the winning runs. Pulls this past deep square leg and into the fence. Raises his arms in delight, so does Rahul as the rest of the team rushes out to the middle.A second straight ICC title for India."
+Ball Number,over,ball,Ball,bowler,batsman,Runs,is_wicket,bowler_score,match_id,city,is_extra,legal_delivery,legal_deliveries_count,overs_completed,overs_bowled,total_runs,current_run_rate,total_overs,target,runs_needed,overs_remaining,required_run_rate,wickets_fallen,wickets_in_hand
+0.1,0,1,1,Shami,Conway,0,False,1.0,1,Ahmedabad,False,True,1,0,0.16666666666666666,0,0.0,20,179,179,19.833333333333332,9.025210084033613,0,10
+0.2,0,2,2,Shami,Conway,1,False,-0.25,1,Ahmedabad,False,True,2,0,0.3333333333333333,1,3.0,20,179,178,19.666666666666668,9.050847457627118,0,10
+0.3,0,3,3,Shami,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,3,0,0.5,1,2.0,20,179,178,19.5,9.128205128205128,0,10
+0.4,0,4,4,Shami,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,4,0,0.6666666666666666,2,3.0,20,179,177,19.333333333333332,9.155172413793103,0,10
+0.5,0,5,5,Shami,Conway,0,False,1.0,1,Ahmedabad,False,True,5,0,0.8333333333333334,2,2.4,20,179,177,19.166666666666668,9.234782608695651,0,10
+0.6,0,6,6,Shami,Conway,0,False,1.0,1,Ahmedabad,False,True,6,0,1.0,2,2.0,20,179,177,19.0,9.31578947368421,0,10
+1.1,1,1,7,Hardik,Gaikwad,4,False,-2.0,1,Ahmedabad,False,True,7,1,1.1666666666666667,6,5.142857142857142,20,179,173,18.833333333333332,9.185840707964603,0,10
+1.2,1,2,8,Hardik,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,8,1,1.3333333333333333,6,4.5,20,179,173,18.666666666666668,9.267857142857142,0,10
+1.3,1,3,9,Hardik,Gaikwad,4,False,-2.0,1,Ahmedabad,False,True,9,1,1.5,10,6.666666666666667,20,179,169,18.5,9.135135135135135,0,10
+1.4,1,4,10,Hardik,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,10,1,1.6666666666666665,11,6.6000000000000005,20,179,168,18.333333333333332,9.163636363636364,0,10
+1.5,1,5,11,Hardik,Conway,1,False,-0.5,1,Ahmedabad,False,True,11,1,1.8333333333333335,12,6.545454545454545,20,179,167,18.166666666666668,9.192660550458715,0,10
+1.6,1,6,12,Hardik,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,12,1,2.0,13,6.5,20,179,166,18.0,9.222222222222221,0,10
+2.1,2,1,13,Shami,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,13,2,2.1666666666666665,14,6.461538461538462,20,179,165,17.833333333333332,9.25233644859813,0,10
+2.2,2,2,14,Shami,Conway,0,True,5.0,1,Ahmedabad,False,True,14,2,2.3333333333333335,14,6.0,20,179,165,17.666666666666668,9.339622641509433,1,9
+2.3,2,3,15,Shami,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,15,2,2.5,14,5.6,20,179,165,17.5,9.428571428571429,1,9
+2.4,2,4,16,Shami,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,16,2,2.6666666666666665,14,5.25,20,179,165,17.333333333333332,9.51923076923077,1,9
+2.5,2,5,17,Shami,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,17,2,2.8333333333333335,14,4.941176470588235,20,179,165,17.166666666666668,9.611650485436893,1,9
+2.6,2,6,18,Shami,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,18,2,3.0,14,4.666666666666667,20,179,165,17.0,9.705882352941176,1,9
+3.1,3,1,19,Little,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,19,3,3.1666666666666665,20,6.315789473684211,20,179,159,16.833333333333332,9.445544554455447,1,9
+3.2,3,2,20,Little,Gaikwad,4,False,-2.0,1,Ahmedabad,False,True,20,3,3.3333333333333335,24,7.199999999999999,20,179,155,16.666666666666668,9.299999999999999,1,9
+3.3,3,3,21,Little,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,21,3,3.5,25,7.142857142857143,20,179,154,16.5,9.333333333333334,1,9
+3.4,3,4,22,Little,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,22,3,3.6666666666666665,25,6.818181818181818,20,179,154,16.333333333333332,9.428571428571429,1,9
+3.5,3,5,23,Little,Moeen Ali,4,False,-2.0,1,Ahmedabad,False,True,23,3,3.8333333333333335,29,7.565217391304348,20,179,150,16.166666666666668,9.278350515463917,1,9
+3.6,3,6,24,Little,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,24,3,4.0,29,7.25,20,179,150,16.0,9.375,1,9
+4.1,4,1,25,Shami,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,25,4,4.166666666666667,29,6.959999999999999,20,179,150,15.833333333333332,9.473684210526317,1,9
+4.2,4,2,26,Shami,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,26,4,4.333333333333333,30,6.923076923076923,20,179,149,15.666666666666668,9.51063829787234,1,9
+4.3,4,3,27,Shami,Moeen Ali,4,False,-2.0,1,Ahmedabad,False,True,27,4,4.5,34,7.555555555555555,20,179,145,15.5,9.35483870967742,1,9
+4.4,4,4,28,Shami,Moeen Ali,1,False,-1.0,1,Ahmedabad,True,False,27,4,4.5,35,7.777777777777778,20,179,144,15.5,9.290322580645162,1,9
+4.4,4,4,29,Shami,Moeen Ali,6,False,-3.0,1,Ahmedabad,False,True,28,4,4.666666666666667,41,8.785714285714285,20,179,138,15.333333333333332,9.0,1,9
+4.5,4,5,30,Shami,Moeen Ali,4,False,-2.0,1,Ahmedabad,False,True,29,4,4.833333333333333,45,9.310344827586208,20,179,134,15.166666666666668,8.835164835164834,1,9
+4.6,4,6,31,Shami,Moeen Ali,1,False,-0.5,1,Ahmedabad,False,True,30,4,5.0,46,9.2,20,179,133,15.0,8.866666666666667,1,9
+5.1,5,1,32,Rashid Khan,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,31,5,5.166666666666667,46,8.903225806451612,20,179,133,14.833333333333332,8.96629213483146,1,9
+5.2,5,2,33,Rashid Khan,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,32,5,5.333333333333333,46,8.625,20,179,133,14.666666666666668,9.068181818181817,1,9
+5.3,5,3,34,Rashid Khan,Moeen Ali,0,False,1.0,1,Ahmedabad,False,True,33,5,5.5,46,8.363636363636363,20,179,133,14.5,9.172413793103448,1,9
+5.4,5,4,35,Rashid Khan,Moeen Ali,4,False,-2.0,1,Ahmedabad,False,True,34,5,5.666666666666667,50,8.823529411764705,20,179,129,14.333333333333332,9.0,1,9
+5.5,5,5,36,Rashid Khan,Moeen Ali,0,True,5.0,1,Ahmedabad,False,True,35,5,5.833333333333333,50,8.571428571428571,20,179,129,14.166666666666668,9.105882352941176,2,8
+5.6,5,6,37,Rashid Khan,Stokes,1,False,-0.5,1,Ahmedabad,False,True,36,5,6.0,51,8.5,20,179,128,14.0,9.142857142857142,2,8
+6.1,6,1,38,Hardik,Stokes,0,False,1.0,1,Ahmedabad,False,True,37,6,6.166666666666667,51,8.27027027027027,20,179,128,13.833333333333332,9.253012048192772,2,8
+6.2,6,2,39,Hardik,Stokes,1,False,-0.5,1,Ahmedabad,False,True,38,6,6.333333333333333,52,8.210526315789474,20,179,127,13.666666666666668,9.292682926829267,2,8
+6.3,6,3,40,Hardik,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,39,6,6.5,58,8.923076923076923,20,179,121,13.5,8.962962962962964,2,8
+6.4,6,4,41,Hardik,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,40,6,6.666666666666667,64,9.6,20,179,115,13.333333333333332,8.625,2,8
+6.5,6,5,42,Hardik,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,41,6,6.833333333333333,64,9.365853658536587,20,179,115,13.166666666666668,8.734177215189872,2,8
+6.6,6,6,43,Hardik,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,42,6,7.0,64,9.142857142857142,20,179,115,13.0,8.846153846153847,2,8
+7.1,7,1,44,Rashid Khan,Stokes,1,False,-0.5,1,Ahmedabad,False,True,43,7,7.166666666666667,65,9.069767441860465,20,179,114,12.833333333333332,8.883116883116884,2,8
+7.2,7,2,45,Rashid Khan,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,44,7,7.333333333333333,66,9.0,20,179,113,12.666666666666668,8.921052631578947,2,8
+7.3,7,3,46,Rashid Khan,Stokes,4,False,-2.0,1,Ahmedabad,False,True,45,7,7.5,70,9.333333333333334,20,179,109,12.5,8.72,2,8
+7.4,7,4,47,Rashid Khan,Stokes,0,True,5.0,1,Ahmedabad,False,True,46,7,7.666666666666667,70,9.130434782608695,20,179,109,12.333333333333332,8.837837837837839,3,7
+7.5,7,5,48,Rashid Khan,Rayudu,1,False,-0.5,1,Ahmedabad,False,True,47,7,7.833333333333333,71,9.063829787234043,20,179,108,12.166666666666668,8.876712328767123,3,7
+7.6,7,6,49,Rashid Khan,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,48,7,8.0,72,9.0,20,179,107,12.0,8.916666666666666,3,7
+8.1,8,1,50,Alzarri Joseph,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,49,8,8.166666666666666,78,9.551020408163266,20,179,101,11.833333333333334,8.535211267605634,3,7
+8.2,8,2,51,Alzarri Joseph,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,50,8,8.333333333333334,78,9.36,20,179,101,11.666666666666666,8.657142857142858,3,7
+8.3,8,3,52,Alzarri Joseph,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,51,8,8.5,78,9.176470588235293,20,179,101,11.5,8.782608695652174,3,7
+8.4,8,4,53,Alzarri Joseph,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,52,8,8.666666666666666,84,9.692307692307693,20,179,95,11.333333333333334,8.382352941176471,3,7
+8.5,8,5,54,Alzarri Joseph,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,53,8,8.833333333333334,84,9.50943396226415,20,179,95,11.166666666666666,8.507462686567164,3,7
+8.6,8,6,55,Alzarri Joseph,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,54,8,9.0,90,10.0,20,179,89,11.0,8.090909090909092,3,7
+9.1,9,1,56,Rashid Khan,Rayudu,0,False,1.0,1,Ahmedabad,False,True,55,9,9.166666666666666,90,9.818181818181818,20,179,89,10.833333333333334,8.215384615384615,3,7
+9.2,9,2,57,Rashid Khan,Rayudu,1,False,-0.5,1,Ahmedabad,False,True,56,9,9.333333333333334,91,9.75,20,179,88,10.666666666666666,8.25,3,7
+9.3,9,3,58,Rashid Khan,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,57,9,9.5,92,9.68421052631579,20,179,87,10.5,8.285714285714286,3,7
+9.4,9,4,59,Rashid Khan,Rayudu,1,False,-0.5,1,Ahmedabad,False,True,58,9,9.666666666666666,93,9.620689655172415,20,179,86,10.333333333333334,8.32258064516129,3,7
+9.5,9,5,60,Rashid Khan,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,59,9,9.833333333333334,93,9.457627118644067,20,179,86,10.166666666666666,8.459016393442623,3,7
+9.6,9,6,61,Rashid Khan,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,60,9,10.0,93,9.3,20,179,86,10.0,8.6,3,7
+10.1,10,1,62,Little,Rayudu,0,False,1.0,1,Ahmedabad,False,True,61,10,10.166666666666666,93,9.147540983606557,20,179,86,9.833333333333334,8.745762711864407,3,7
+10.2,10,2,63,Little,Rayudu,0,False,1.0,1,Ahmedabad,False,True,62,10,10.333333333333334,93,9.0,20,179,86,9.666666666666666,8.896551724137932,3,7
+10.3,10,3,64,Little,Rayudu,0,False,1.0,1,Ahmedabad,False,True,63,10,10.5,93,8.857142857142858,20,179,86,9.5,9.052631578947368,3,7
+10.4,10,4,65,Little,Rayudu,1,False,-0.5,1,Ahmedabad,False,True,64,10,10.666666666666666,94,8.8125,20,179,85,9.333333333333334,9.107142857142856,3,7
+10.5,10,5,66,Little,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,65,10,10.833333333333334,94,8.676923076923076,20,179,85,9.166666666666666,9.272727272727273,3,7
+10.6,10,6,67,Little,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,66,10,11.0,100,9.090909090909092,20,179,79,9.0,8.777777777777779,3,7
+11.1,11,1,68,Yash Dayal,Rayudu,1,False,-0.5,1,Ahmedabad,False,True,67,11,11.166666666666666,101,9.044776119402986,20,179,78,8.833333333333334,8.830188679245282,3,7
+11.2,11,2,69,Yash Dayal,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,68,11,11.333333333333334,101,8.911764705882353,20,179,78,8.666666666666666,9.0,3,7
+11.3,11,3,70,Yash Dayal,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,69,11,11.5,107,9.304347826086957,20,179,72,8.5,8.470588235294118,3,7
+11.4,11,4,71,Yash Dayal,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,70,11,11.666666666666666,107,9.171428571428573,20,179,72,8.333333333333334,8.639999999999999,3,7
+11.5,11,5,72,Yash Dayal,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,71,11,11.833333333333334,108,9.126760563380282,20,179,71,8.166666666666666,8.693877551020408,3,7
+11.6,11,6,73,Yash Dayal,Rayudu,6,False,-3.0,1,Ahmedabad,False,True,72,11,12.0,114,9.5,20,179,65,8.0,8.125,3,7
+12.1,12,1,74,Little,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,73,12,12.166666666666666,115,9.452054794520548,20,179,64,7.833333333333334,8.170212765957446,3,7
+12.2,12,2,75,Little,Rayudu,1,False,-0.5,1,Ahmedabad,False,True,74,12,12.333333333333334,116,9.405405405405405,20,179,63,7.666666666666666,8.217391304347826,3,7
+12.3,12,3,76,Little,Gaikwad,4,False,-2.0,1,Ahmedabad,False,True,75,12,12.5,120,9.6,20,179,59,7.5,7.866666666666666,3,7
+12.4,12,4,77,Little,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,76,12,12.666666666666666,121,9.552631578947368,20,179,58,7.333333333333334,7.909090909090908,3,7
+12.5,12,5,78,Little,Rayudu,0,True,5.0,1,Ahmedabad,False,True,77,12,12.833333333333334,121,9.428571428571429,20,179,58,7.166666666666666,8.093023255813954,4,6
+12.6,12,6,79,Little,Dube,0,False,1.0,1,Ahmedabad,False,True,78,12,13.0,121,9.307692307692308,20,179,58,7.0,8.285714285714286,4,6
+13.1,13,1,80,Alzarri Joseph,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,79,13,13.166666666666666,122,9.265822784810126,20,179,57,6.833333333333334,8.341463414634145,4,6
+13.2,13,2,81,Alzarri Joseph,Dube,1,False,-0.5,1,Ahmedabad,False,True,80,13,13.333333333333334,123,9.225,20,179,56,6.666666666666666,8.4,4,6
+13.3,13,3,82,Alzarri Joseph,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,81,13,13.5,124,9.185185185185185,20,179,55,6.5,8.461538461538462,4,6
+13.4,13,4,83,Alzarri Joseph,Dube,0,False,1.0,1,Ahmedabad,False,True,82,13,13.666666666666666,124,9.073170731707318,20,179,55,6.333333333333334,8.68421052631579,4,6
+13.5,13,5,84,Alzarri Joseph,Dube,0,False,1.0,1,Ahmedabad,False,True,83,13,13.833333333333334,124,8.963855421686747,20,179,55,6.166666666666666,8.91891891891892,4,6
+13.6,13,6,85,Alzarri Joseph,Dube,1,False,-0.5,1,Ahmedabad,False,True,84,13,14.0,125,8.928571428571429,20,179,54,6.0,9.0,4,6
+14.1,14,1,86,Hardik,Dube,1,False,-0.5,1,Ahmedabad,False,True,85,14,14.166666666666666,126,8.894117647058824,20,179,53,5.833333333333334,9.085714285714285,4,6
+14.2,14,2,87,Hardik,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,86,14,14.333333333333334,127,8.86046511627907,20,179,52,5.666666666666666,9.176470588235295,4,6
+14.3,14,3,88,Hardik,Dube,4,False,-0.25,1,Ahmedabad,False,True,87,14,14.5,131,9.03448275862069,20,179,48,5.5,8.727272727272727,4,6
+14.4,14,4,89,Hardik,Dube,1,False,-0.5,1,Ahmedabad,False,True,88,14,14.666666666666666,132,9.0,20,179,47,5.333333333333334,8.812499999999998,4,6
+14.5,14,5,90,Hardik,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,89,14,14.833333333333334,132,8.898876404494382,20,179,47,5.166666666666666,9.096774193548388,4,6
+14.6,14,6,91,Hardik,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,90,14,15.0,133,8.866666666666667,20,179,46,5.0,9.2,4,6
+15.1,15,1,92,Alzarri Joseph,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,91,15,15.166666666666666,134,8.835164835164836,20,179,45,4.833333333333334,9.310344827586206,4,6
+15.2,15,2,93,Alzarri Joseph,Dube,0,False,1.0,1,Ahmedabad,False,True,92,15,15.333333333333334,134,8.739130434782608,20,179,45,4.666666666666666,9.642857142857144,4,6
+15.3,15,3,94,Alzarri Joseph,Dube,1,False,-0.5,1,Ahmedabad,False,True,93,15,15.5,135,8.709677419354838,20,179,44,4.5,9.777777777777779,4,6
+15.4,15,4,95,Alzarri Joseph,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,94,15,15.666666666666666,136,8.680851063829788,20,179,43,4.333333333333334,9.923076923076922,4,6
+15.5,15,5,96,Alzarri Joseph,Dube,2,False,-1.0,1,Ahmedabad,False,True,95,15,15.833333333333334,138,8.715789473684211,20,179,41,4.166666666666666,9.840000000000002,4,6
+15.6,15,6,97,Alzarri Joseph,Dube,2,False,-1.0,1,Ahmedabad,False,True,96,15,16.0,140,8.75,20,179,39,4.0,9.75,4,6
+16.1,16,1,98,Rashid Khan,Gaikwad,6,False,-3.0,1,Ahmedabad,False,True,97,16,16.166666666666668,146,9.030927835051546,20,179,33,3.833333333333332,8.608695652173916,4,6
+16.2,16,2,99,Rashid Khan,Gaikwad,2,False,-1.0,1,Ahmedabad,False,True,98,16,16.333333333333332,148,9.061224489795919,20,179,31,3.666666666666668,8.454545454545451,4,6
+16.3,16,3,100,Rashid Khan,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,99,16,16.5,149,9.030303030303031,20,179,30,3.5,8.571428571428571,4,6
+16.4,16,4,101,Rashid Khan,Dube,1,False,-0.25,1,Ahmedabad,False,True,100,16,16.666666666666668,150,9.0,20,179,29,3.333333333333332,8.700000000000003,4,6
+16.5,16,5,102,Rashid Khan,Gaikwad,0,False,1.0,1,Ahmedabad,False,True,101,16,16.833333333333332,150,8.910891089108912,20,179,29,3.166666666666668,9.157894736842103,4,6
+16.6,16,6,103,Rashid Khan,Gaikwad,1,False,-0.5,1,Ahmedabad,False,True,102,16,17.0,151,8.882352941176471,20,179,28,3.0,9.333333333333334,4,6
+17.1,17,1,104,Alzarri Joseph,Gaikwad,0,True,5.0,1,Ahmedabad,False,True,103,17,17.166666666666668,151,8.796116504854368,20,179,28,2.833333333333332,9.882352941176475,5,5
+17.2,17,2,105,Alzarri Joseph,Jadeja,1,False,-0.5,1,Ahmedabad,False,True,104,17,17.333333333333332,152,8.76923076923077,20,179,27,2.666666666666668,10.124999999999995,5,5
+17.3,17,3,106,Alzarri Joseph,Dube,1,False,-0.5,1,Ahmedabad,False,True,105,17,17.5,153,8.742857142857142,20,179,26,2.5,10.4,5,5
+17.4,17,4,107,Alzarri Joseph,Jadeja,0,True,5.0,1,Ahmedabad,False,True,106,17,17.666666666666668,153,8.660377358490566,20,179,26,2.333333333333332,11.142857142857148,6,4
+17.5,17,5,108,Alzarri Joseph,Dhoni,1,False,-0.5,1,Ahmedabad,False,True,107,17,17.833333333333332,154,8.63551401869159,20,179,25,2.166666666666668,11.538461538461533,6,4
+17.6,17,6,109,Alzarri Joseph,Dube,1,False,-0.5,1,Ahmedabad,False,True,108,17,18.0,155,8.61111111111111,20,179,24,2.0,12.0,6,4
+18.1,18,1,110,Shami,Dube,2,False,-1.0,1,Ahmedabad,False,True,109,18,18.166666666666668,157,8.642201834862385,20,179,22,1.8333333333333321,12.000000000000007,6,4
+18.2,18,2,111,Shami,Dube,6,False,-3.0,1,Ahmedabad,False,True,110,18,18.333333333333332,163,8.89090909090909,20,179,16,1.6666666666666679,9.599999999999993,6,4
+18.3,18,3,112,Shami,Dube,0,True,5.0,1,Ahmedabad,False,True,111,18,18.5,163,8.81081081081081,20,179,16,1.5,10.666666666666666,7,3
+18.4,18,4,113,Shami,Santner,0,False,1.0,1,Ahmedabad,False,True,112,18,18.666666666666668,163,8.732142857142856,20,179,16,1.3333333333333321,12.00000000000001,7,3
+18.5,18,5,114,Shami,Santner,1,False,-0.5,1,Ahmedabad,False,True,113,18,18.833333333333332,164,8.707964601769913,20,179,15,1.1666666666666679,12.857142857142843,7,3
+18.6,18,6,115,Shami,Dhoni,1,False,-0.5,1,Ahmedabad,False,True,114,18,19.0,165,8.68421052631579,20,179,14,1.0,14.0,7,3
+19.1,19,1,116,Little,Dhoni,1,False,-0.5,1,Ahmedabad,False,True,115,19,19.166666666666668,166,8.660869565217391,20,179,13,0.8333333333333321,15.600000000000023,7,3
+19.2,19,2,117,Little,Santner,1,False,-0.25,1,Ahmedabad,False,True,116,19,19.333333333333332,167,8.63793103448276,20,179,12,0.6666666666666679,17.999999999999968,7,3
+19.3,19,3,118,Little,Dhoni,6,False,-3.0,1,Ahmedabad,False,True,117,19,19.5,173,8.871794871794872,20,179,6,0.5,12.0,7,3
+19.4,19,4,119,Little,Dhoni,4,False,-2.0,1,Ahmedabad,False,True,118,19,19.666666666666668,177,9.0,20,179,2,0.33333333333333215,6.000000000000021,7,3
+19.5,19,5,120,Little,Dhoni,0,False,1.0,1,Ahmedabad,False,True,119,19,19.833333333333332,177,8.92436974789916,20,179,2,0.16666666666666785,11.999999999999915,7,3
+19.6,19,6,121,Little,Dhoni,1,False,-0.5,1,Ahmedabad,False,True,120,19,20.0,178,8.9,20,179,1,0.0,inf,7,3
